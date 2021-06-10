@@ -20,5 +20,14 @@
   "bugs": {
     "url": "https://github.com/Lakshitnagar/nodeanz/issues"
   },
-  "homepage": "https://github.com/Lakshitnagar/nodeanz#readme"
+  "homepage": "https://github.com/Lakshitnagar/nodeanz#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cookie-parser": "^1.4.5",
+    "debug": "^4.3.1",
+    "express": "^4.17.1",
+    "http-errors": "^1.8.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.12.13"
+  }
 }
