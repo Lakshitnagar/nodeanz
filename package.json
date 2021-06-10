@@ -1,0 +1,24 @@
+{
+  "name": "nodeanz",
+  "version": "1.0.0",
+  "description": "Config based Authentication and Authorization",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lakshitnagar/nodeanz.git"
+  },
+  "keywords": [
+    "auth",
+    "node",
+    "authz"
+  ],
+  "author": "lakshitnagar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lakshitnagar/nodeanz/issues"
+  },
+  "homepage": "https://github.com/Lakshitnagar/nodeanz#readme"
+}
